@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Mobile App Development & ASP.NET MVC/Core API integration
+- 🔭 I’m currently working on Mobile App Development & ASP.NET MVC/Core API creation & integration
 - 🌱 I’m currently learning FLUTTER
 <!--- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
