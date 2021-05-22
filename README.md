@@ -31,7 +31,7 @@
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
             </td>
             <td><a href="#"><img alt="Python" title="Python" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ionic/ionic.png" /></a>
+                        src="https://simpleicons.org/icons/ionic.svg" /></a>
             </td>
         </tr>
         <tr>
@@ -48,8 +48,8 @@
                         src="https://img.icons8.com/color/48/000000/flutter.png" /></a></td>
         </tr>
         <tr>
-            <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" /></a>
+            <td><a href="#"><img alt="iOS" title="iOS" height="28px"
+                        src="https://simpleicons.org/icons/apple.svg" /></a>
             </td>
             <td><a href="#"><img alt="SQL" title="SQL" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
