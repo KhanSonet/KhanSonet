@@ -33,7 +33,8 @@
             <td><a href="#"><img alt="Ionic" title="Ionic" height="28px"
                         src="https://simpleicons.org/icons/ionic.svg" /></a>
             </td>
-   
+        </tr>
+        <tr>
             <td><a href="#"><img alt="C++" title="C++" height="28px"
                         src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
             <td><a href="#"><img alt="C#" title="C#" height="28px"
@@ -60,7 +61,8 @@
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://i.imgur.com/DZgetVv.png" /></a>
             </td>
-     
+        </tr>
+        <tr>
             <td><a href="#"><img alt="Laravel" title="Laravel" height="28px"
                         src="https://simpleicons.org/icons/laravel.svg" /></a>
             </td>
@@ -75,6 +77,7 @@
         </tr>
     </tbody>
 </table>
+
 
 
 ## 🔥  My contribution streak
