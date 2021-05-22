@@ -46,14 +46,15 @@
             </td>
             <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
                         src="https://img.icons8.com/color/48/000000/flutter.png" /></a></td>
-        </tr>
-        <tr>
+        
             <td><a href="#"><img alt="iOS" title="iOS" height="28px"
                         src="https://simpleicons.org/icons/apple.svg" /></a>
             </td>
             <td><a href="#"><img alt="SQL" title="SQL" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
             </td>
+            </tr>
+        <tr>
             <td><a href="#"><img alt="Asp .NET" title="Asp .NET" height="28px"
                         src="https://simpleicons.org/icons/dot-net.svg" /></a></td>
             <td><a href="#"><img alt="Firebase" title="Firebase" height="28px"
@@ -61,8 +62,6 @@
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://i.imgur.com/DZgetVv.png" /></a>
             </td>
-        </tr>
-        <tr>
             <td><a href="#"><img alt="Laravel" title="Laravel" height="28px"
                         src="https://simpleicons.org/icons/laravel.svg" /></a>
             </td>
@@ -70,10 +69,10 @@
                         src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
             <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
                         src="https://i.imgur.com/6nJGNMN.png" /></a></td>
-            <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
-                        src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
-            <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
-                        src="https://i.imgur.com/UfBWFbP.png" /></a></td>
+            <td><a href="#"><img alt="XCode" title="XCode" height="28px"
+                        src="https://simpleicons.org/icons/xcode.svg" /></a></td>
+            <td><a href="#"><img alt="React Native" title="React Native" height="28px"
+                        src="https://simpleicons.org/icons/react.svg" /></a></td>
         </tr>
     </tbody>
 </table>
