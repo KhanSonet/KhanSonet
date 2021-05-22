@@ -70,10 +70,10 @@
                         src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
             <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
                         src="https://i.imgur.com/6nJGNMN.png" /></a></td>
-            <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
-                        src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
-            <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
-                        src="https://i.imgur.com/UfBWFbP.png" /></a></td>
+            <td><a href="#"><img alt="Xcode" title="Xcode" height="28px"
+                        src="https://simpleicons.org/icons/xcode.svg" /></a></td>
+            <td><a href="#"><img alt="React Native" title="React Native" height="28px"
+                        src="https://simpleicons.org/icons/react.svg" /></a></td>
         </tr>
     </tbody>
 </table>
