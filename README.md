@@ -55,7 +55,7 @@
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
             </td>
             <td><a href="#"><img alt="Asp .NET" title="Asp .NET" height="28px"
-                        src="https://simpleicons.org/icons/dot-net.svg" /></a></td>
+                        src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" /></a></td>
             <td><a href="#"><img alt="Firebase" title="Firebase" height="28px"
                         src="https://simpleicons.org/icons/firebase.svg" /></a></td>
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
