@@ -18,7 +18,7 @@
 <table>
 <tbody>
 <tr>
-<td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"><img width="240px" height="240px" src="https://i.ytimg.com/vi/210Ni-uDMAw/hqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"><img width="440px"src="https://i.ytimg.com/vi/210Ni-uDMAw/hqdefault.jpg"></a></td>
 <td> SALES FORCE APP (Confidence Salt)<br/><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s">#Android APP #Java #ERP SYSTEM #.NET MVC API 
    <br/>#APP + API Developed by ME #No Teamwork<br/>#PROJECT_YEAR_2020-2021</a><br/>May 9, 2021</td></tr>
 <tr>
