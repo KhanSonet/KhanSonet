@@ -27,6 +27,9 @@
 <tr>
 <td><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s"><img width="240px" src="https://i9.ytimg.com/vi/KY59L-YDiqk/mq2.jpg?sqp=COi62o0G&rs=AOn4CLARGVqBgFL49BsHHsD0vvRUoEyMag"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s">#Starling Denims LTD #Savar <br/> #Garments Production Management System #PHP  #MySql #Javascript  <br/>#Developed by me #No Teamwork<br/>#PROJECT_YEAR_2018</a><br/>Dec 13, 2021</td></tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s"><img width="240px" src="https://i9.ytimg.com/vi/KY59L-YDiqk/mq2.jpg?sqp=COi62o0G&rs=AOn4CLARGVqBgFL49BsHHsD0vvRUoEyMag"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s">#mPlaza.xya #Customized_Bengali_Ecommerce <br/> #PHP #Laravel #MySql #Javascript  <br/>#Founder #Personal_Project #Entrepreneurship<br/>#PROJECT_YEAR_2021</a><br/>Dec 13, 2021</td></tr>
       
 </tbody>
 </table>
