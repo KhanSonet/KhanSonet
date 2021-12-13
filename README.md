@@ -19,14 +19,14 @@
 <tbody>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"><img width="240px" src="https://i.ytimg.com/vi/210Ni-uDMAw/hqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s">##Android APP ##ERP SYSTEM ##.NET MVC API ## Developed by me ##No Teamwork
-    ##Confidence Salt ## SALES FORCE ##PROJECT_YEAR_2019-2020</a><br/>May 9, 2021</td></tr>
+<td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s">#Android APP #ERP SYSTEM #.NET MVC API # Developed by me #No Teamwork
+    #Confidence Salt # SALES FORCE <br/>#PROJECT_YEAR_2019-2020</a><br/>May 9, 2021</td></tr>
 <tr>  
 <td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s"><img width="240px" src="https://i.ytimg.com/vi/v1TrCBV4br8/hqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s">#.Net Mvc ## Javascript ##Employee Tracking ##Attendance HRM ## 2500 employees ## 12 shifts ## 3 machines ## Developed by me ##No Teamwork ##WoodLand ##Kushtia ##PROJECT_YEAR_2017-18</a><br/>Nov 14, 2020</td></tr>
+<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s">#.Net Mvc # Javascript #Employee Tracking #Attendance #HRM # 2500 employees # 12 shifts # 3 machines # Developed by me #No Teamwork #WoodLand #Kushtia <br/>#PROJECT_YEAR_2017-18</a><br/>Nov 14, 2020</td></tr>
 <tr>
-<td><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s"><img width="240px" src="https://i9.ytimg.com/vi/KY59L-YDiqk/mq2.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s">##Starling Denims LTD ##Garments Production Management System ##PHP  ##MySql ##Javascript ##Savar ##PROJECT_YEAR_2018</a><br/>Dec 13, 2021</td></tr>
+<td><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s"><img width="240px" src="https://i9.ytimg.com/vi/KY59L-YDiqk/mq2.jpg?sqp=COi62o0G&rs=AOn4CLARGVqBgFL49BsHHsD0vvRUoEyMag"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s">#Starling Denims LTD #Garments Production Management System #PHP  #MySql #Javascript #Savar <br/>#PROJECT_YEAR_2018</a><br/>Dec 13, 2021</td></tr>
       
 </tbody>
 </table>
