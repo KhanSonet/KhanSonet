@@ -32,7 +32,7 @@
 <td><a href="https://www.youtube.com/watch?v=Xu3-Xom1uDQ">#mPlaza.xyz <br/>#Customized_Bengali_Ecommerce <br/> #PHP #Laravel #MySql #Javascript  <br/>#Founder #Personal_Project #Entrepreneurship<br/>#PROJECT_YEAR_2021</a><br/>Dec 13, 2021</td></tr>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ"><img width="240px" src="https://i9.ytimg.com/vi/N0_sJUJqoHQ/mq2.jpg?sqp=CKjg2o0G&rs=AOn4CLA6Qw-alS2sETQjwSbUVbB5Ssb0IA&retry=4"></a></td>
-<td><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ">#.NET MVC API Code #review on GItHub <br/> #MSSQL #.NET MVC #API #LinQ Queries <br/>#Repository Pattern #Sales_Force #Mis_API<br/>#PROJECT_YEAR_2021</a><br/>Dec 13, 2021</td></tr>
+<td><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ">#.NET MVC API Code #review on GItHub <br/> #MSSQL #.NET MVC #API #LinQ Queries <br/>#Repository Pattern #Sales_Force #Mis_API<br/>#Developed by me #No Teamwork<br/>#PROJECT_YEAR_2021</a><br/>Dec 13, 2021</td></tr>
       
 </tbody>
 </table>
