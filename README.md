@@ -22,7 +22,7 @@
 <td> SALES FORCE APP (Confidence Salt)<br/><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s">#Android APP #Java <br/>#ERP SYSTEM #.NET MVC API 
    <br/>#APP + API Developed by ME #No Teamwork<br/>#PROJECT_YEAR_2020-2021</a><br/>May 9, 2021</td></tr>
 <tr>
-<td><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ"><img width="240px" src="https://i9.ytimg.com/vi/N0_sJUJqoHQ/mq2.jpg?sqp=CKjg2o0G&rs=AOn4CLA6Qw-alS2sETQjwSbUVbB5Ssb0IA&retry=4"></a></td>
+<td><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ"><img width="240px" src="https://i.ytimg.com/an_webp/N0_sJUJqoHQ/mqdefault_6s.webp?du=3000&sqp=CITa240G&rs=AOn4CLDT7F-GXDcvcxEeVOaOIbzm7b0fdQ"></a></td>
 <td>SALES FORCE API (Confidence Salt)</br><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ">#Code review on GItHub <br/> #.NET MVC #API #MSSQL <br/>#LinQ Queries #Repository Pattern <br/>#Sales_Force #Mis_API<br/>#Developed by me #No Teamwork<br/>#PROJECT_YEAR_2020-2021</a><br/>Dec 13, 2021</td></tr>
       <tr>
 <td><a href="https://www.youtube.com/watch?v=Xu3-Xom1uDQ"><img width="240px" src="https://i.ytimg.com/an_webp/Xu3-Xom1uDQ/mqdefault_6s.webp?du=3000&sqp=CMjX240G&rs=AOn4CLB7p2x-o8NkncM8REdbWUQanWsjMQ"></a></td>
