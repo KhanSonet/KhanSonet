@@ -112,10 +112,7 @@
 
     
 <td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s"><img width="140px" src="https://i.ytimg.com/vi/v1TrCBV4br8/hqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s">#.Net Mvc ## Javascript ##Employee Tracking ##Attendance HRM ## 2500 employees ## 12 shifts ## 3 machines ## Developed by me ##No Teamwork ##WoodLand ##Kushtia
-    
-    </a><br/>Nov 14, 2020
-      </td>
+<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s">#.Net Mvc ## Javascript ##Employee Tracking ##Attendance HRM ## 2500 employees ## 12 shifts ## 3 machines ## Developed by me ##No Teamwork ##WoodLand ##Kushtia</a><br/>Nov 14, 2020</td>
       
 
 
