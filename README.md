@@ -19,7 +19,7 @@
 <tbody>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"><img width="240px" src="https://i.ytimg.com/vi/210Ni-uDMAw/hqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"> #Confidence Salt # SALES FORCE <br/>#Android APP #ERP SYSTEM #.NET MVC API 
+<td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"> #Confidence Salt # SALES FORCE <br/>#Android APP #Java #ERP SYSTEM #.NET MVC API 
    <br/>#APP + API Developed by ME #No Teamwork<br/>#PROJECT_YEAR_2019-2020</a><br/>May 9, 2021</td></tr>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ"><img width="240px" src="https://i9.ytimg.com/vi/N0_sJUJqoHQ/mq2.jpg?sqp=CKjg2o0G&rs=AOn4CLA6Qw-alS2sETQjwSbUVbB5Ssb0IA&retry=4"></a></td>
