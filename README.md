@@ -12,7 +12,7 @@
 * 🌐 You can chek some of my projects on [Portfolio Website](https://KhanSonet.github.io)
 * 📺 I have some tech tutorials on [YouTube](https://www.youtube.com/channel/UCEAtqzTMaAEFURvXK8Y64rg)
 
-## 📺 Latest Project Videos (Click on image for YouTube Video)
+## 📺 Latest Project Videos (Click for YouTube Video)
 
 
 <table>
