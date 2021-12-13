@@ -104,18 +104,17 @@
 
 <table>
   <tbody>
-<!-- YOUTUBE:START -->
 <td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"><img width="140px" src="https://i.ytimg.com/vi/210Ni-uDMAw/hqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s">ERP SYSTEM integrated mobile application. API has been developed by me on ASP.NET MVC</a><br/>May 9, 2021
       </td>
 
-      <!-- YOUTUBE:START -->
-<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s"><img width="140px" src="https://i.ytimg.com/vi/210Ni-uDMAw/hqdefault.jpg"></a></td>
+    ]
+<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s"><img width="140px" src="https://i.ytimg.com/vi/v1TrCBV4br8/hqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s">Employee Tracking System developed for 2500 employees with more than 12 shifts and 3 machines</a><br/>Nov 14, 2020
       </td>
       
 
-<!-- YOUTUBE:END -->
+
 </tbody>
   </table>
 
