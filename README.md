@@ -12,6 +12,21 @@
 * 🌐 You can chek some of my projects on [My Portfolio](https://KhanSonet.github.io)
 * 📺 I have some tech tutorials on [YouTube](https://www.youtube.com/channel/UCEAtqzTMaAEFURvXK8Y64rg)
 
+## 📺 Latest Project Videos
+
+
+<table>
+<tbody>
+<td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"><img width="140px" src="https://i.ytimg.com/vi/210Ni-uDMAw/hqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s">##Android APP ##ERP SYSTEM ##.NET MVC API ## Developed by me ##No Teamwork
+    ##Confidence Salt ## SALES FORCE</a><br/>May 9, 2021</td>
+    
+<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s"><img width="140px" src="https://i.ytimg.com/vi/v1TrCBV4br8/hqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s">#.Net Mvc ## Javascript ##Employee Tracking ##Attendance HRM ## 2500 employees ## 12 shifts ## 3 machines ## Developed by me ##No Teamwork ##WoodLand ##Kushtia</a><br/>Nov 14, 2020</td>
+      
+</tbody>
+</table>
+
 
 ## 👨‍💻 Languages and Tools:
 
@@ -99,25 +114,7 @@
   <br/>
 
 
-## 📺 Latest YouTube Videos
 
-
-<table>
-  <tbody>
-<td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"><img width="140px" src="https://i.ytimg.com/vi/210Ni-uDMAw/hqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s">##Android APP ##ERP SYSTEM ##.NET MVC API ## Developed by me ##No Teamwork
-    ##Confidence Salt ## SALES FORCE
-    </a><br/>May 9, 2021
-</td>
-
-    
-<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s"><img width="140px" src="https://i.ytimg.com/vi/v1TrCBV4br8/hqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s">#.Net Mvc ## Javascript ##Employee Tracking ##Attendance HRM ## 2500 employees ## 12 shifts ## 3 machines ## Developed by me ##No Teamwork ##WoodLand ##Kushtia</a><br/>Nov 14, 2020</td>
-      
-
-
-</tbody>
-  </table>
 
 
 
