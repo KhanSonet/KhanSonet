@@ -8,7 +8,7 @@
 * 💻 I'm a full stack Web Developer
 * 📱 I make mobile apps for Android and iOS
 * 🎨 I'm a self-taught UI designer
-* 🎓 I'm a Computer Science student (Graduated in October 2018)
+* 🎓 I'm a Computer Science student
 * 🌐 You can chek some of my projects on [Portfolio Website](https://KhanSonet.github.io)
 * 📺 I have some tech tutorials on [YouTube](https://www.youtube.com/channel/UCEAtqzTMaAEFURvXK8Y64rg)
 
