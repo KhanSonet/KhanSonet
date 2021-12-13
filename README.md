@@ -29,7 +29,7 @@
 <td><a href="https://www.youtube.com/watch?v=Xu3-Xom1uDQ">#mPlaza.xyz <br/>#Customized_Bengali_Ecommerce <br/> #PHP #Laravel #MySql #Javascript  <br/>#Founder #Personal_Project #Entrepreneurship<br/>#PROJECT_YEAR_2021</a><br/>Dec 13, 2021</td></tr>  
 <tr>  
 <td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s"><img width="240px" src="https://i.ytimg.com/vi/v1TrCBV4br8/hqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s">#WoodLand #Kushtia <br/>#.Net Mvc # Javascript #Employee Tracking #Attendance #HRM # 2500 employees # 12 shifts # 3 machines  <br/># Developed by me #No Teamwork<br/>#PROJECT_YEAR_2017-18</a><br/>Nov 14, 2020</td></tr>
+<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s">#WoodLand #Kushtia <br/>#.Net Mvc # Javascript #Employee Tracking #Attendance #HRM # 2500 employees # 12 shifts # 3 ZTecho machines  <br/># Developed by me #No Teamwork<br/>#PROJECT_YEAR_2017-18</a><br/>Nov 14, 2020</td></tr>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s"><img width="240px" src="https://i9.ytimg.com/vi/KY59L-YDiqk/mq2.jpg?sqp=COi62o0G&rs=AOn4CLARGVqBgFL49BsHHsD0vvRUoEyMag"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s">#Starling Denims LTD #Savar <br/> #Garments Production Management System #PHP  #MySql #Javascript  <br/>#Developed by me #No Teamwork<br/>#PROJECT_YEAR_2018</a><br/>Dec 13, 2021</td></tr>  
