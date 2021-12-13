@@ -17,7 +17,7 @@
 
 <table>
 <tbody>
-<tr>
+<tr style="color:black;">
 <td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"><img width="240px" src="https://i.ytimg.com/vi/210Ni-uDMAw/hqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"> #Confidence Salt # SALES FORCE <br/>#Android APP #ERP SYSTEM #.NET MVC API 
    <br/>#APP + API Developed by ME #No Teamwork<br/>#PROJECT_YEAR_2019-2020</a><br/>May 9, 2021</td></tr>
