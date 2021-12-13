@@ -12,7 +12,7 @@
 * 🌐 You can chek some of my projects on [My Portfolio](https://KhanSonet.github.io)
 * 📺 I have some tech tutorials on [YouTube](https://www.youtube.com/channel/UCEAtqzTMaAEFURvXK8Y64rg)
 
-## 📺 Latest Project Videos
+## 📺 Latest Project Videos (Click on image for YouTube Video)
 
 
 <table>
@@ -20,13 +20,13 @@
 <tr>
 <td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"><img width="240px" src="https://i.ytimg.com/vi/210Ni-uDMAw/hqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"> #Confidence Salt # SALES FORCE <br/>#Android APP #ERP SYSTEM #.NET MVC API 
-   <br/>#APP + API Developed by ME #No Teamwork<br/>#PROJECT_YEAR_2019-2020</a><br/><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s">VISIT YOUTUBE </a>May 9, 2021</td></tr>
+   <br/>#APP + API Developed by ME #No Teamwork<br/>#PROJECT_YEAR_2019-2020</a><br/>May 9, 2021</td></tr>
 <tr>  
 <td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s"><img width="240px" src="https://i.ytimg.com/vi/v1TrCBV4br8/hqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s">#WoodLand #Kushtia <br/>#.Net Mvc # Javascript #Employee Tracking #Attendance #HRM # 2500 employees # 12 shifts # 3 machines  <br/># Developed by me #No Teamwork<br/>#PROJECT_YEAR_2017-18</a><br/><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s">VISIT YOUTUBE </a> Nov 14, 2020</td></tr>
+<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s">#WoodLand #Kushtia <br/>#.Net Mvc # Javascript #Employee Tracking #Attendance #HRM # 2500 employees # 12 shifts # 3 machines  <br/># Developed by me #No Teamwork<br/>#PROJECT_YEAR_2017-18</a><br/>Nov 14, 2020</td></tr>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s"><img width="240px" src="https://i9.ytimg.com/vi/KY59L-YDiqk/mq2.jpg?sqp=COi62o0G&rs=AOn4CLARGVqBgFL49BsHHsD0vvRUoEyMag"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s">#Starling Denims LTD #Savar <br/> #Garments Production Management System #PHP  #MySql #Javascript  <br/>#Developed by me #No Teamwork<br/>#PROJECT_YEAR_2018</a><br/><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s">VISIT YOUTUBE </a>Dec 13, 2021</td></tr>
+<td><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s">#Starling Denims LTD #Savar <br/> #Garments Production Management System #PHP  #MySql #Javascript  <br/>#Developed by me #No Teamwork<br/>#PROJECT_YEAR_2018</a><br/>Dec 13, 2021</td></tr>
       
 </tbody>
 </table>
