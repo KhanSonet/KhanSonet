@@ -110,7 +110,7 @@
 
     ]
 <td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s"><img width="140px" src="https://i.ytimg.com/vi/v1TrCBV4br8/hqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s">Employee Tracking System developed for 2500 employees with more than 12 shifts and 3 machines</a><br/>Nov 14, 2020
+<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s">#.Net Mvc ## Javascript ##Employee Tracking ##Attendance HRM ## 2500 employees ## 12 shifts ## 3 machines</a><br/>Nov 14, 2020
       </td>
       
 
