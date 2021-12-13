@@ -23,16 +23,16 @@
    <br/>#APP + API Developed by ME #No Teamwork<br/>#PROJECT_YEAR_2019-2020</a><br/>May 9, 2021</td></tr>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ"><img width="240px" src="https://i9.ytimg.com/vi/N0_sJUJqoHQ/mq2.jpg?sqp=CKjg2o0G&rs=AOn4CLA6Qw-alS2sETQjwSbUVbB5Ssb0IA&retry=4"></a></td>
-<td>SALES FORCE API (.Net MVC)</br><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ">#.NET MVC API Code #review on GItHub <br/> #MSSQL #.NET MVC #API #LinQ Queries <br/>#Repository Pattern #Sales_Force #Mis_API<br/>#Developed by me #No Teamwork<br/>#PROJECT_YEAR_2021</a><br/>Dec 13, 2021</td></tr>
+<td>SALES FORCE API (.Net MVC)</br><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ">#Code review on GItHub <br/> #MSSQL #.NET MVC #API #LinQ Queries <br/>#Repository Pattern #Sales_Force #Mis_API<br/>#Developed by me #No Teamwork<br/>#PROJECT_YEAR_2021</a><br/>Dec 13, 2021</td></tr>
       <tr>
 <td><a href="https://www.youtube.com/watch?v=Xu3-Xom1uDQ"><img width="240px" src="https://i9.ytimg.com/vi/Xu3-Xom1uDQ/mq3.jpg?sqp=CMjN2o0G&rs=AOn4CLA5fXjYtY-MuT5GyY_MpOAU7F76sQ"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Xu3-Xom1uDQ">#mPlaza.xyz <br/>#Customized_Bengali_Ecommerce <br/> #PHP #Laravel #MySql #Javascript  <br/>#Founder #Personal_Project #Entrepreneurship<br/>#PROJECT_YEAR_2021</a><br/>Dec 13, 2021</td></tr>  
+<td>mPlaza.xyz (Founder)<br/><a href="https://www.youtube.com/watch?v=Xu3-Xom1uDQ">#Customized_Bengali_Ecommerce <br/> #PHP #Laravel #MySql #Javascript  <br/>#Entrepreneurship #Personal_Project<br/>#PROJECT_YEAR_2021</a><br/>Dec 13, 2021</td></tr>  
 <tr>  
 <td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s"><img width="240px" src="https://i.ytimg.com/vi/v1TrCBV4br8/hqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s">#WoodLand #Kushtia <br/>#.Net Mvc # Javascript #Employee Tracking #Attendance #HRM # 2500 employees # 12 shifts # 3 ZTecho machines  <br/># Developed by me #No Teamwork<br/>#PROJECT_YEAR_2017-18</a><br/>Nov 14, 2020</td></tr>
+<td>Attendance & HRM (Woodland,Kushtia)<a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s">#.Net Mvc # Javascript #Employee Tracking #Attendance #HRM # 2500 employees # 12 Rotating Shifts #3_ZTecho_machines  <br/># Developed by me #No Teamwork<br/>#PROJECT_YEAR_2017-18</a><br/>Nov 14, 2020</td></tr>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s"><img width="240px" src="https://i9.ytimg.com/vi/KY59L-YDiqk/mq2.jpg?sqp=COi62o0G&rs=AOn4CLARGVqBgFL49BsHHsD0vvRUoEyMag"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s">#Starling Denims LTD #Savar <br/> #Garments Production Management System #PHP  #MySql #Javascript  <br/>#Developed by me #No Teamwork<br/>#PROJECT_YEAR_2018</a><br/>Dec 13, 2021</td></tr>  
+<td>Garments Production Management System (Starling Denims LTD,Savar) <br/> <a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s">#PHP  #MySql #Javascript  <br/>#Developed by me #No Teamwork<br/>#PROJECT_YEAR_2018</a><br/>Dec 13, 2021</td></tr>  
 </tbody>
 </table>
 
