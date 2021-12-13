@@ -17,10 +17,10 @@
 
 <table>
 <tbody>
-<tr style="color:black;">
+<tr>
 <td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"><img width="240px" src="https://i.ytimg.com/vi/210Ni-uDMAw/hqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"> #Confidence Salt # SALES FORCE <br/>#Android APP #ERP SYSTEM #.NET MVC API 
-   <br/>#APP + API Developed by ME #No Teamwork<br/>#PROJECT_YEAR_2019-2020</a><br/>May 9, 2021</td></tr>
+<td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"><span style="color:black;"> #Confidence Salt # SALES FORCE <br/>#Android APP #ERP SYSTEM #.NET MVC API 
+   <br/>#APP + API Developed by ME #No Teamwork<br/>#PROJECT_YEAR_2019-2020</a><br/>May 9, 2021</td></tr></span>
 <tr>  
 <td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s"><img width="240px" src="https://i.ytimg.com/vi/v1TrCBV4br8/hqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s">#WoodLand #Kushtia <br/>#.Net Mvc # Javascript #Employee Tracking #Attendance #HRM # 2500 employees # 12 shifts # 3 machines  <br/># Developed by me #No Teamwork<br/>#PROJECT_YEAR_2017-18</a><br/>Nov 14, 2020</td></tr>
