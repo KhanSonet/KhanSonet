@@ -19,11 +19,11 @@
 <tbody>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"><img width="240px"src="https://i.ytimg.com/vi/210Ni-uDMAw/hqdefault.jpg"></a></td>
-<td> SALES FORCE APP <br/>(Confidence Salt)<br/><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s">#Android APP <br/>#Java <br/>#ERP SYSTEM <br/>#.NET MVC API 
-   <br/>#APP + API Developed by ME <br/>#No Teamwork<br/>#PROJECT_YEAR_2020-2021</a><br/>May 9, 2021</td></tr>
+<td> SALES FORCE APP (Confidence Salt)<br/><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s">#Android APP #Java <br/>#ERP SYSTEM #.NET MVC API 
+   <br/>#APP + API Developed by ME #No Teamwork<br/>#PROJECT_YEAR_2020-2021</a><br/>May 9, 2021</td></tr>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ"><img width="240px" src="https://i9.ytimg.com/vi/N0_sJUJqoHQ/mq2.jpg?sqp=CKjg2o0G&rs=AOn4CLA6Qw-alS2sETQjwSbUVbB5Ssb0IA&retry=4"></a></td>
-<td>SALES FORCE API <br/>(Confidence Salt)</br><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ">#Code review on GItHub <br/> #.NET MVC <br/>#API <br/>#MSSQL <br/>#LinQ Queries <br/>#Repository Pattern <br/>#Sales_Force <br/>#Mis_API<br/>#Developed by me <br/>#No Teamwork<br/>#PROJECT_YEAR_2020-2021</a><br/>Dec 13, 2021</td></tr>
+<td>SALES FORCE API (Confidence Salt)</br><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ">#Code review on GItHub <br/> #.NET MVC #API #MSSQL <br/>#LinQ Queries #Repository Pattern <br/>#Sales_Force #Mis_API<br/>#Developed by me <br/>#No Teamwork<br/>#PROJECT_YEAR_2020-2021</a><br/>Dec 13, 2021</td></tr>
       <tr>
 <td><a href="https://www.youtube.com/watch?v=Xu3-Xom1uDQ"><img width="240px" src="https://i9.ytimg.com/vi/Xu3-Xom1uDQ/mq3.jpg?sqp=CMjN2o0G&rs=AOn4CLA5fXjYtY-MuT5GyY_MpOAU7F76sQ"></a></td>
 <td>mPlaza.xyz (Founder)<br/><a href="https://www.youtube.com/watch?v=Xu3-Xom1uDQ">#Customized_Bengali_Ecommerce <br/> #PHP #Laravel #MySql #Javascript  <br/>#Entrepreneurship #Personal_Project<br/>#PROJECT_YEAR_2021</a><br/>Dec 13, 2021</td></tr>  
