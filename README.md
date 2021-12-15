@@ -19,8 +19,8 @@
 <tbody>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"><img width="240px"src="https://i.ytimg.com/vi/210Ni-uDMAw/hqdefault.jpg"></a></td>
-<td> SALES FORCE APP (Confidence Salt)<br/><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s">#Android APP #Java <br/>#ERP SYSTEM #.NET MVC API 
-   <br/>#APP + API Developed by ME #No Teamwork<br/>#PROJECT_YEAR_2020-2021</a><br/>May 9, 2021</td></tr>
+<td> <a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s">SALES FORCE APP (Confidence Salt)</a><br/>#Android APP #Java <br/>#ERP SYSTEM #.NET MVC API 
+   <br/>#APP + API Developed by ME #No Teamwork<br/>#PROJECT_YEAR_2020-2021<br/>May 9, 2021</td></tr>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ"><img width="240px" src="https://i.ytimg.com/an_webp/N0_sJUJqoHQ/mqdefault_6s.webp?du=3000&sqp=CITa240G&rs=AOn4CLDT7F-GXDcvcxEeVOaOIbzm7b0fdQ"></a></td>
    <td><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ">SALES FORCE API (Confidence Salt)</a></br>#Code review on GItHub <br/> #.NET MVC #API #MSSQL <br/>#LinQ Queries #Repository Pattern <br/>#Sales_Force #Mis_API<br/>#Developed by me #No Teamwork<br/>#PROJECT_YEAR_2020-2021<br/>Dec 13, 2021</td></tr>
