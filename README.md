@@ -12,6 +12,8 @@
 * 🌐 You can chek some of my projects on [Portfolio Website](https://KhanSonet.vercel.app)
 * 📺 I have some tech tutorials on [YouTube](https://www.youtube.com/channel/UCEAtqzTMaAEFURvXK8Y64rg)
 
+* 🌐 https://KhanSonet.vercel.app
+
 ## 📺 Latest Project Videos (Click for YouTube Video)
 
 
