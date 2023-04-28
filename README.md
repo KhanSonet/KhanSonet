@@ -81,7 +81,7 @@
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
             </td>
             <td><a href="#"><img alt="Asp .NET" title="Asp .NET" height="28px"
-                        src="https://e7.pngegg.com/pngimages/190/711/png-clipart-microsoft-visual-studio-entity-framework-microsoft-developer-network-asp-net-microsoft-purple-angle-thumbnail.png" /></a></td>
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" /></a></td>
             <td><a href="#"><img alt="Firebase" title="Firebase" height="28px"
                         src="https://simpleicons.org/icons/firebase.svg" /></a></td>
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
