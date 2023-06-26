@@ -117,12 +117,7 @@
 📊   GitHub Profile Statistics
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=KhanSonet&show_icons=true&count_private=true&hide=" /></a>
-
 <br/>
-  💻   Most used languages 🔥 (public code on GitHub consists of and does not reflect my experience or skill level)
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanSonet&layout=compact)"/>
-  <br/>
 
 
 
