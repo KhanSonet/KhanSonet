@@ -3,38 +3,6 @@
 <h3 align="center">Hey there, I'm <a href="https://KhanSonet.github.io/">Khan Sonet</a>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3> -->
 
-## 📖  About me
-
-* 💻 Full Stack Web Developer , Android/iOS Developer & UI/UX Designer
-* 🌱 Project Portfolio [Portfolio Website](https://KhanSonet.vercel.app)
-* 📺 Tech Tutorials [YouTube](https://www.youtube.com/channel/UCEAtqzTMaAEFURvXK8Y64rg)
-* 🌐 https://KhanSonet.vercel.app
-
-## 📺 Latest Project Videos (Click for YouTube Video)
-
-
-<table>
-<tbody>
-<tr>
-<td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"><img width="240px"src="https://i.ytimg.com/vi/210Ni-uDMAw/hqdefault.jpg"></a></td>
-<td> <a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s">SALES FORCE APP (Confidence Salt)</a><br/>#Android APP #Java <br/>#ERP SYSTEM #.NET MVC API 
-   <br/>#APP + API Developed by ME #No Teamwork<br/>#PROJECT_YEAR_2020-2021<br/>Uploaded on May 9, 2021</td></tr>
-<tr>
-<td><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ"><img width="240px" src="./api_project.webp"></a></td>
-   <td><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ">SALES FORCE API (Confidence Salt)</a></br>#Code review on GItHub <br/> #.NET MVC #API #MSSQL <br/>#LinQ Queries #Repository Pattern <br/>#Sales_Force #Mis_API<br/>#Developed by me #No Teamwork<br/>#PROJECT_YEAR_2020-2021<br/>Uploaded on Dec 13, 2021</td></tr>
-      <tr>
-<td><a href="https://www.youtube.com/watch?v=Xu3-Xom1uDQ"><img width="240px" src="./mplaza.webp"></a></td>
-   <td><a href="https://www.youtube.com/watch?v=Xu3-Xom1uDQ">mPlaza.xyz (Founder)</a><br/>#Customized_Bengali_Ecommerce <br/> #PHP #Laravel #MySql #Javascript  <br/>#Entrepreneurship #Personal_Project<br/>#PROJECT_YEAR_2021<br/>Uploaded on Dec 13, 2021</td></tr>  
-<tr>  
-<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s"><img width="240px" src="https://i.ytimg.com/vi/v1TrCBV4br8/hqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s">Attendance & HRM (Woodland,Kushtia)</a></br>#.Net Mvc # Javascript #Employee Tracking #Attendance <br/>#HRM # 2500 employees # 12 Rotating Shifts #3_ZTecho_machines  <br/># Developed by me #No Teamwork<br/>#PROJECT_YEAR_2018-19<br/>Uploaded on Nov 14, 2020</td></tr>
-<tr>
-<td><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s"><img width="240px" src="./mqdefault_6s.webp"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s">Garments Production Management System (Starling Denims LTD,Savar)</a><br/> #PHP  #MySql #Javascript  <br/>#Developed by me #No Teamwork<br/>#PROJECT_YEAR_2019<br/>Uploaded on Dec 13, 2021</td></tr>  
-</tbody>
-</table>
-
-
 ## 👨‍💻 Languages and Tools:
 
 <table>
@@ -99,6 +67,34 @@
         </tr>
     </tbody>
 </table>
+
+
+* 🌐 https://KhanSonet.vercel.app
+
+## 📺 Latest Project Videos (Click for YouTube Video)
+
+
+<table>
+<tbody>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s"><img width="240px"src="https://i.ytimg.com/vi/210Ni-uDMAw/hqdefault.jpg"></a></td>
+<td> <a href="https://www.youtube.com/watch?v=210Ni-uDMAw&t=212s">SALES FORCE APP (Confidence Salt)</a><br/>#Android APP #Java <br/>#ERP SYSTEM #.NET MVC API 
+   <br/>#APP + API Developed by ME #No Teamwork<br/>#PROJECT_YEAR_2020-2021<br/>Uploaded on May 9, 2021</td></tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ"><img width="240px" src="./api_project.webp"></a></td>
+   <td><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ">SALES FORCE API (Confidence Salt)</a></br>#Code review on GItHub <br/> #.NET MVC #API #MSSQL <br/>#LinQ Queries #Repository Pattern <br/>#Sales_Force #Mis_API<br/>#Developed by me #No Teamwork<br/>#PROJECT_YEAR_2020-2021<br/>Uploaded on Dec 13, 2021</td></tr>
+      <tr>
+<td><a href="https://www.youtube.com/watch?v=Xu3-Xom1uDQ"><img width="240px" src="./mplaza.webp"></a></td>
+   <td><a href="https://www.youtube.com/watch?v=Xu3-Xom1uDQ">mPlaza.xyz (Founder)</a><br/>#Customized_Bengali_Ecommerce <br/> #PHP #Laravel #MySql #Javascript  <br/>#Entrepreneurship #Personal_Project<br/>#PROJECT_YEAR_2021<br/>Uploaded on Dec 13, 2021</td></tr>  
+<tr>  
+<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s"><img width="240px" src="https://i.ytimg.com/vi/v1TrCBV4br8/hqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=v1TrCBV4br8&t=1s">Attendance & HRM (Woodland,Kushtia)</a></br>#.Net Mvc # Javascript #Employee Tracking #Attendance <br/>#HRM # 2500 employees # 12 Rotating Shifts #3_ZTecho_machines  <br/># Developed by me #No Teamwork<br/>#PROJECT_YEAR_2018-19<br/>Uploaded on Nov 14, 2020</td></tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s"><img width="240px" src="./mqdefault_6s.webp"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KY59L-YDiqk&t=40s">Garments Production Management System (Starling Denims LTD,Savar)</a><br/> #PHP  #MySql #Javascript  <br/>#Developed by me #No Teamwork<br/>#PROJECT_YEAR_2019<br/>Uploaded on Dec 13, 2021</td></tr>  
+</tbody>
+</table>
+
 
 
 
