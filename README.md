@@ -5,9 +5,9 @@
 
 ## 📖  About me
 
-* 💻 I'm a full stack Web Developer , make mobile apps for Android and iOS & UI/UX designer
-* 🌐 You can chek some of my projects on [Portfolio Website](https://KhanSonet.vercel.app)
-* 📺 I have some tech tutorials on [YouTube](https://www.youtube.com/channel/UCEAtqzTMaAEFURvXK8Y64rg)
+* 💻 Full Stack Web Developer , Android/iOS Developer & UI/UX Designer
+* 🌱 Project Portfolio [Portfolio Website](https://KhanSonet.vercel.app)
+* 📺 Tech Tutorials [YouTube](https://www.youtube.com/channel/UCEAtqzTMaAEFURvXK8Y64rg)
 * 🌐 https://KhanSonet.vercel.app
 
 ## 📺 Latest Project Videos (Click for YouTube Video)
