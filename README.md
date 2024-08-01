@@ -42,7 +42,7 @@
             <td><a href="#"><img alt="Asp .NET" title="Asp .NET" height="28px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" /></a></td>
             <td><a href="#"><img alt="Firebase" title="Firebase" height="28px"
-                        src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" /></a></td>
+                        src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" /></a></td>
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://i.imgur.com/DZgetVv.png" /></a>
             </td>
