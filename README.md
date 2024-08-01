@@ -42,7 +42,7 @@
             <td><a href="#"><img alt="Asp .NET" title="Asp .NET" height="28px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" /></a></td>
             <td><a href="#"><img alt="Firebase" title="Firebase" height="28px"
-                        src="https://simpleicons.org/icons/firebase.svg" /></a></td>
+                        src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" /></a></td>
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://i.imgur.com/DZgetVv.png" /></a>
             </td>
@@ -74,7 +74,7 @@
    <br/>#APP + API Developed by ME #No Teamwork<br/>#PROJECT_YEAR_2020-2021<br/>Uploaded on May 9, 2021</td></tr>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ"><img width="240px" src="./api_project.webp"></a></td>
-   <td><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ">SALES FORCE API (Confidence Salt)</a></br>#Code review on GItHub <br/> #.NET MVC #API #MSSQL <br/>#LinQ Queries #Repository Pattern <br/>#Sales_Force #Mis_API<br/>#Developed by me #No Teamwork<br/>#PROJECT_YEAR_2020-2021<br/>Uploaded on Dec 13, 2021</td></tr>
+   <td><a href="https://www.youtube.com/watch?v=N0_sJUJqoHQ">SALES FORCE API (Confidence Salt)</a></br>#Code review on GitHub <br/> #.NET MVC #API #MSSQL <br/>#LinQ Queries #Repository Pattern <br/>#Sales_Force #Mis_API<br/>#Developed by me #No Teamwork<br/>#PROJECT_YEAR_2020-2021<br/>Uploaded on Dec 13, 2021</td></tr>
       <tr>
 <td><a href="https://www.youtube.com/watch?v=Xu3-Xom1uDQ"><img width="240px" src="./mplaza.webp"></a></td>
    <td><a href="https://www.youtube.com/watch?v=Xu3-Xom1uDQ">mPlaza.xyz (Founder)</a><br/>#Customized_Bengali_Ecommerce <br/> #PHP #Laravel #MySql #Javascript  <br/>#Entrepreneurship #Personal_Project<br/>#PROJECT_YEAR_2021<br/>Uploaded on Dec 13, 2021</td></tr>  
